@@ -1,0 +1,7 @@
+face_recognition
+opencv-python
+playsound
+pygame
+pymongo
+requests
+slacker
