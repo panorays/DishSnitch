@@ -11,7 +11,7 @@ Yeah, an automated app that detects and shames the culprit by sending the full e
 
 For those who are interested in the DishSnitch, we placed the app’s files free to grab on Github—you’ll find the link at the end of the post.
 
-
+![alt DishSnitch][dishsnitch1.png]
 
 Introduction
 
@@ -22,4 +22,6 @@ Together with me, this app was developed by Stephan Gross and Yarden Zemach, mem
 (Necessary pat-on-the- back note: We actually developed in these two days two separate unrelated automation projects. 
 The other project we worked on will be integrated within the Panorays platform shortly. Exciting times!)
 
-
+![alt DishSnitch][dishsnitch4.png]
+![alt DishSnitch][dishsnitch5.png]
+![alt DishSnitch][dishsnitch8.png]
